@@ -1,0 +1,211 @@
+body{
+    background-color: #d4dde3;
+}
+table{
+    color: white;
+    background-color: #e5eaee;
+    margin:10px 200px 10px 200px;
+    border-radius: 10px;
+}
+/*----------------------個人資料---------------------------*/
+/*----------------------個人資料---------------------------*/
+.head{
+    margin:10px 300px 10px 300px;
+    background-color: #bfc5ce;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+.me{
+    content: url("611742.jpg");
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50%;
+    max-width: 200px; 
+    max-height: 200px;
+    overflow: hidden;
+}
+.text{
+    width: 500px;
+    font-size: 18px;
+    margin: auto;
+    text-align: center;
+    word-spacing: 10px;
+}
+.button{
+    letter-spacing: 20px;
+}
+.fb {
+    content: url("facebook.png");
+    width: 100%; 
+    max-width: 45px; 
+    max-height: 45px;
+}
+.ig{
+    content: url("instagram.png");
+    width: 100%; 
+    max-width: 45px; 
+    max-height: 45px;
+}
+.mail{
+    content: url("email.png");
+    width: 100%; 
+    max-width: 50px; 
+    max-height: 50px;
+}
+/*----------------------skill bar---------------------------*/
+/*----------------------skill bar---------------------------*/
+.skill{
+    margin:10px 20px 10px 20px;
+    background-color: #bfc5ce;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+.word{
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.skillbar{
+    margin:10px 20px 10px 20px;
+}
+.container {
+    background-color: #d4dbe6;
+}
+.html {
+    width: 90%; background-color: #819abd;
+}
+.css {
+    width: 80%; background-color: #819abd;
+}
+.js {
+    width: 65%; background-color: #819abd;
+}
+/*----------------------個人經歷---------------------------*/
+/*----------------------個人經歷---------------------------*/
+.experience{
+    margin:10px 20px 10px 20px;
+    background-color: #bfc5ce;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+.timeline{
+    margin-left: 75px;
+    border-radius: 10px;
+    border: solid #727983;
+    max-width: 10px;
+    height: 500px;
+    max-height: 500px;
+    background-color: #819abd;
+    z-index: -1;
+}
+.circle{
+    border: solid #525d6d;
+    border-radius: 50%;
+    width: 20px;
+    max-width: 20px;
+    height: 20px;
+    max-height: 20px;
+    background-color: rgb(110, 123, 141);
+    margin-left: 70px;
+}
+#a{
+    position: absolute;
+    margin-top: 70px;
+}
+#b{
+    position: absolute;
+    margin-top: 230px;
+}
+#c{
+    position: absolute;
+    margin-top: 390px;
+}
+.time{
+        background-color: rgb(120, 133, 151);
+        position: absolute;
+        margin-left: 150px;
+        border-radius: 10px;
+        color: white;
+        font-size: 17px;
+        
+}
+#aa{
+    margin-top: 30px;
+    max-width: 850px;
+    max-height: 150px;
+    padding-right: 20px;
+}
+#bb{
+    margin-top: 190px;
+    max-width: 850px;
+    max-height: 150px;
+    padding-right: 20px;
+}
+#cc{
+    margin-top: 350px;
+    max-width: 850px;
+    max-height: 150px;
+    padding-right: 20px;
+}
+#aimg{
+    max-width: 150px;
+    max-height: 150px;
+    height: 150px;
+    float: left;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+/*----------------------其他作品---------------------------*/
+/*----------------------其他作品---------------------------*/
+.other{
+    margin:10px 20px 10px 20px;
+    background-color: #bfc5ce;
+    border-radius: 10px;
+}
+.accordion {
+    background-color: #bfc5ce;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 20px;
+    transition: 0.4s;
+  } 
+  .active, .accordion:hover {
+    background-color: rgb(120, 133, 151); 
+  }
+  
+  .panel {
+    padding: 0 18px;
+    display: none;
+    background-color: #d4dde3;
+    overflow: hidden;
+    font-size: 20px;
+    color:rgb(120, 133, 151);
+  }
+  #jimg{
+      max-width: 250px;
+      max-height: 330px;
+      padding: 20px;
+  }
+  #pimg{
+    max-width: 250px;
+    max-height: 330px;
+    padding: 20px;
+}
+#bimg{
+    max-width: 260px;
+    max-height: 330px;
+    padding: 20px;
+}
+#oimg{
+    max-width: 250px;
+    max-height: 330px;
+    padding: 20px;
+}
